@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <a href="https://app.daily.dev/mr_abhishek1105"><img src="https://api.daily.dev/devcards/v2/HUc550FP6jUlBkoRdf1Mo.png?r=3zv&type=default" width="356" alt="Abhishek kumar's Dev Card"/></a>
 
 <!--
