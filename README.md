@@ -1,5 +1,5 @@
-
-<a href="https://app.daily.dev/mr_abhishek1105"><img src="https://api.daily.dev/devcards/v2/HUc550FP6jUlBkoRdf1Mo.png?r=3zv&type=default" width="356" alt="Abhishek kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/mr_abhishek1105"><img src="https://api.daily.dev/devcards/v2/HUc550FP6jUlBkoRdf1Mo.png?type=default&r=pkv" width="356" alt="Abhishek kumar's Dev Card"/></a>
+<!--<a href="https://app.daily.dev/mr_abhishek1105"><img src="https://api.daily.dev/devcards/v2/HUc550FP6jUlBkoRdf1Mo.png?r=3zv&type=default" width="356" alt="Abhishek kumar's Dev Card"/></a> -->
 
 <!--
 **rex-abhishek/rex-abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
